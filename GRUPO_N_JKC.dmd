@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="GRUPO_N_JKC" id="17A58834-9FC2-15D6-4429-732B5326AF5B" version="3.5">
+<createdBy>bruno</createdBy>
+<createdTime>2022-03-18 23:00:36 UTC</createdTime>
+<ownerDesignName>JKC V1</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>17A58834-9FC2-15D6-4429-732B5326AF5B</designId>
+</OSDM_Design>
